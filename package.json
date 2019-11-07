@@ -1,7 +1,7 @@
 {
   "name": "hydrogen-exectime",
   "main": "./lib/hydrogen-exectime",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A short description of your package",
   "keywords": [],
   "consumedServices": {
