@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  
+
   "consumedServices": {
     "hydrogen.provider": {
       "versions": {
@@ -16,7 +16,7 @@
   "activationCommands": {
     "atom-workspace": "hydrogen-exectime:toggle"
   },
-  "repository": "https://github.com/atom/hydrogen-exectime",
+  "repository": "https://github.com/benjastudio/hydrogen-exectime",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
