@@ -1,0 +1,29 @@
+{
+  "name": "hydrogen-exectime",
+  "main": "./lib/hydrogen-exectime",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  
+  "consumedServices": {
+    "hydrogen.provider": {
+      "versions": {
+        "^1.0.0": "consumeHydrogen"
+      }
+    }
+  },
+  "activationCommands": {
+    "atom-workspace": "hydrogen-exectime:toggle"
+  },
+  "repository": "https://github.com/atom/hydrogen-exectime",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "package-deps": [
+    "hydrogen"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Activate hydrogen-exectime",
+        "command": "hydrogen-exectime:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "hydrogen-exectime",
+          "submenu": [
+            {
+              "label": "Activate",
+              "command": "hydrogen-exectime:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
