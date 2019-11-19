@@ -11,9 +11,6 @@
       }
     }
   },
-  "activationCommands": {
-    "atom-workspace": "hydrogen-exectime:toggle"
-  },
   "repository": "https://github.com/benjastudio/hydrogen-exectime",
   "license": "MIT",
   "engines": {

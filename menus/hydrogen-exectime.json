@@ -3,7 +3,11 @@
     "atom-text-editor": [
       {
         "label": "Activate hydrogen-exectime",
-        "command": "hydrogen-exectime:toggle"
+        "command": "hydrogen-exectime:activate"
+      },
+      {
+        "label": "Deactivate hydrogen-exectime",
+        "command": "hydrogen-exectime:deactivate"
       }
     ]
   },
@@ -16,7 +20,11 @@
           "submenu": [
             {
               "label": "Activate",
-              "command": "hydrogen-exectime:toggle"
+              "command": "hydrogen-exectime:activate"
+            },
+            {
+              "label": "Deactivate",
+              "command": "hydrogen-exectime:deactivate"
             }
           ]
         }
