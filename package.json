@@ -1,7 +1,7 @@
 {
   "name": "hydrogen-exectime",
   "main": "./lib/hydrogen-exectime",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Print the execution time when you execute your code with Hydrogen.",
   "keywords": [],
   "consumedServices": {
